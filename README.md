@@ -35,7 +35,7 @@ https://mp.weixin.qq.com/
 ## 下载安装开发工具
 https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 ## 运行小程序看效果
-双击运行第一步安装的小程序开发工具，打开看效果：
+双击运行第一步安装的小程序开发工具，打开看效果：下载源代码，将有压缩包的文件解压在当前文件夹里，然后删除压缩包：pages、cloudfunctions、vant组件，这三个为压缩文件，解压在压缩包位置当前文件夹里即可。
 
 <img src="https://dcdn.it120.cc/yuque/0/2019/png/572726/1575349127431-00ff2059-dd5e-4e4b-99a7-e1d605db02c7.png?x-oss-process=image%2Fresize%2Cw_1500 " width="200px">
 
