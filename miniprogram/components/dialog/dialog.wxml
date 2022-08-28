@@ -1,0 +1,11 @@
+<view class="wrap" wx:if="{{show}}">
+  <view>
+    <view class="message" style="width:{{mWidth}}rpx;">
+      <image class="message-icon" src="../../images/jinggao.png" />
+      <view class="message-text" style="width:{{contentWidth}}rpx;">
+        <slot name="content"></slot>
+        <text class="show-message-text">{{messageText}}</text>
+      </view>
+    </view>
+  </view>
+</view>
