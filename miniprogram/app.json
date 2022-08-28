@@ -1,0 +1,75 @@
+{
+  "cloud": true,
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages/other/other",
+    "pages/publish/publish",
+    "pages/my/my",
+    "pages/detail/detail",
+    "pages/order/list/list",
+    "pages/order/detail/detail",
+    "pages/about/about",
+    "pages/sell/list/list",
+    "pages/sell/detail/detail",
+    "pages/search/search",
+    "pages/edit/edit",
+    "pages/message/message",
+    "pages/detail/room/room",
+    "pages/collection/collection",
+    "pages/serve/serve",
+    "pages/publish_qg/publish_qg",
+    "pages/detail/detail_2/detail_2"
+  ],
+  "window": {
+    "backgroundColor": "#FFC8B4",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F69E35",
+    "navigationBarTitleText": "解忧旧物小铺",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#707070",
+    "selectedColor": "#1F8AAA",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/tabbar/home.png",
+        "selectedIconPath": "/images/tabbar/home-active.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "/images/tabbar/my.png",
+        "selectedIconPath": "/images/tabbar/my-active.png"
+      }
+    ]
+  },
+  "usingComponents": {
+    "message": "/components/message/message",
+    "dialog":"/components/dialog/dialog",
+    "van-steps": "/vant/steps/index",
+    "van-transition": "/vant/transition/index",
+    "van-stepper": "/vant/stepper/index",
+    "van-action-sheet": "/vant/action-sheet/index",
+    "van-popup": "/vant/popup/index",
+    "van-dialog": "/vant/dialog/index",
+    "van-button": "/vant/button/index",
+    "van-icon": "/vant/icon/index",
+    "van-uploader": "/vant/uploader/index",
+    "van-checkbox": "/vant/checkbox/index",
+    "van-divider": "/vant/divider/index",
+    "van-notice-bar": "/vant/notice-bar/index",
+    "van-tag": "/vant/tag/index",
+    "van-overlay": "/vant/overlay/index",
+    "wux-fab-button":"/vant/fab-button/index",
+    "van-tab": "/vant/tab/index",
+    "van-tabs": "/vant/tabs/index",
+    "van-empty": "/vant/empty/index",
+    "van-sticky": "/vant/sticky/index",
+    "van-share-sheet": "/vant/share-sheet/index",
+    "van-swipe-cell": "/vant/swipe-cell/index"
+  }
+}
