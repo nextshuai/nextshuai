@@ -25,8 +25,6 @@
 
 - [vant-UI库](https://youzan.github.io/vant-weapp/)
 
-- [小程序在线接口-SDK](https://github.com/gooking/apifm-wxapi)
-
 # 使用教程
 ## 注册开通小程序账号
 https://mp.weixin.qq.com/
@@ -102,4 +100,4 @@ https://mp.weixin.qq.com/
 # 尾声
 若果您觉得此小程序对您有所帮助，欢迎打赏开发者哦~
 
-<img src="https://shoot.photo/images/2022/08/27/QxvM6.jpg " width="200px">
+<img src="https://shoot.photo/images/2022/08/27/QxvM6.jpg" width="200px">
